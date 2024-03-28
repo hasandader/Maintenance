@@ -1,0 +1,8 @@
+<svg id="Component_3_1" data-name="Component 3 – 1" xmlns="http://www.w3.org/2000/svg" width="477.827" height="333.919" viewBox="0 0 477.827 333.919">
+  <path id="Path_2" data-name="Path 2" d="M57.45,91.308c0-14.723,19.017-26.658,42.476-26.658H492.8c23.459,0,42.476,11.935,42.476,26.658V389.274a263.92,263.92,0,0,1-65.509,9.251C376.777,400.905,171.3,304.9,57.45,253.588Z" transform="translate(-57.45 -64.65)" fill="#21aba5"/>
+  <text id="بلاغات_الصيانة" data-name="بلاغات الصيانة" transform="translate(230.897 226.465)" fill="#fff" font-size="22" font-family="Tajawal-Bold, Tajawal" font-weight="700" letter-spacing="-0.01em"><tspan x="0" y="0">بلاغات الصيانة</tspan></text>
+  <text id="تسجيل_الدخول" data-name="تسجيل الدخول" transform="translate(238.897 266.686)" fill="#333" font-size="20" font-family="Tajawal-Bold, Tajawal" font-weight="700"><tspan x="0" y="0">تسجيل الدخول</tspan></text>
+  <path id="Path_4" data-name="Path 4" d="M136.036,244.672H84.72s3.237-9.3,12.536-10.863,8.886,5.649,16.968,6.061,10.515-4.454,16.577-1.629S136.036,244.672,136.036,244.672Z" transform="translate(43.957 -30.18)" fill="#f1f2f2"/>
+  <path id="Path_5" data-name="Path 5" d="M190.536,229.172H139.22s3.237-9.3,12.536-10.863,8.886,5.649,16.968,6.061,10.515-4.454,16.577-1.629S190.536,229.172,190.536,229.172Z" transform="translate(65.861 -70.355)" fill="#f1f2f2"/>
+  <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="29.699" cy="29.699" rx="29.699" ry="29.699" transform="translate(74.689 181.441) rotate(-77)" fill="#f4ab3e"/>
+</svg>

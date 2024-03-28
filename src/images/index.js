@@ -1,0 +1,44 @@
+//PNG, JPG, PGEG images
+export const home = require('../../assets/images/home.png');
+export const searchRight = require('../../assets/images/searchRight.png');
+export const close = require('../../assets/images/close.png');
+export const header = require('../../assets/images/head.png');
+export const avatar = require('../../assets/images/avatar.png');
+export const addPhoto = require('../../assets/images/addPhoto.png');
+export const locationMarker = require('../../assets/images/locationMarker.png');
+export const greenMarker = require('../../assets/images/greenMarker.png');
+export const backButton = require('../../assets/images/leftArrow.png');
+export const like = require('../../assets/images/like.png');
+export const tailLogo = require('../../assets/images/tailLogo.png');
+export const loginTop = require('../../assets/images/loginTop.png');
+export const intro1 = require('../../assets/images/intro1.png');
+export const intro2 = require('../../assets/images/intro2.png');
+export const intro3 = require('../../assets/images/intro3.png');
+export const notification = require('../../assets/images/notification.png');
+export const activeNotification = require('../../assets/images/activeNotification.png');
+
+//SVG images
+export { default as ActiveAddition } from '../../assets/images/activeAddition.svg';
+export { default as InactiveAddition } from '../../assets/images/inactiveAddition.svg';
+export { default as InactiveMenu } from '../../assets/images/inactiveMenu.svg';
+export { default as ActiveMenu } from '../../assets/images/activeMenu.svg';
+export { default as InactiveHome } from '../../assets/images/inactiveHome.svg';
+export { default as ActiveHome } from '../../assets/images/activeHome.svg';
+export { default as ActiveProfile } from '../../assets/images/activeProfile.svg';
+export { default as InactiveProfile } from '../../assets/images/inactiveProfile.svg';
+export { default as BackButton } from '../../assets/images/backButton.svg';
+export { default as Headerr } from '../../assets/images/header.svg';
+export { default as Logout } from '../../assets/images/logout.svg';
+export { default as LeftArrow } from '../../assets/images/leftArrow.svg';
+export { default as Avatar } from '../../assets/images/avatar.svg';
+export { default as Intro1 } from '../../assets/images/intro1.svg';
+export { default as Intro2 } from '../../assets/images/intro2.svg';
+export { default as Intro3 } from '../../assets/images/intro3.svg';
+export { default as LoginTop } from '../../assets/images/loginTop.svg';
+export { default as Lock } from '../../assets/images/lock.svg';
+export { default as Email } from '../../assets/images/email.svg';
+export { default as ArrowDown } from '../../assets/images/arrowDown.svg';
+export { default as Bell } from '../../assets/images/bell.svg';
+export { default as ActiveBell } from '../../assets/images/activeBell.svg';
+export { default as User } from '../../assets/images/user.svg';
+export { default as Edit } from '../../assets/images/edit.svg';
